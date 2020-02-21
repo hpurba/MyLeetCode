@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24aa3c3c-3484-49f9-a60e-3351f1e03663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
@@ -97,9 +96,9 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="936" y="565" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/-1920.23.1920.1057@0.23.2560.1417" timestamp="1582249245776" />
-    <state x="1348" y="285" key="new project wizard" timestamp="1582263339598">
+    <state x="1348" y="285" key="new project wizard" timestamp="1582266632690">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1348" y="285" key="new project wizard/0.23.2560.1417/-1920.23.1920.1057@0.23.2560.1417" timestamp="1582263339598" />
+    <state x="1348" y="285" key="new project wizard/0.23.2560.1417/-1920.23.1920.1057@0.23.2560.1417" timestamp="1582266632690" />
   </component>
 </project>
